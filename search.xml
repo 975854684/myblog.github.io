@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hadoop hdfs上传文件</title>
-    <url>/myblog.github.io/2024/01/03/Hadoop-hdfs%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6/</url>
-    <content><![CDATA[<p>xshell连接到相应的集群</p>
-<p><img src="/myblog.github.io/pic/1702478212823.png" alt="1702478212823"></p>
-<p>还有创建的命令。</p>
-]]></content>
-      <categories>
-        <category>关于spark的一些问题</category>
-      </categories>
-  </entry>
-  <entry>
     <title>firstplot</title>
     <url>/myblog.github.io/2024/01/04/firstplot/</url>
     <content><![CDATA[<p><img src="/myblog.github.io/pic/1.jpg" alt="1"></p>
@@ -42,5 +31,32 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>英语模板</title>
+    <url>/myblog.github.io/2024/01/05/%E8%8B%B1%E8%AF%AD%E6%A8%A1%E6%9D%BF/</url>
+    <content><![CDATA[<h1 id="英语模板"><a href="#英语模板" class="headerlink" title="英语模板"></a>英语模板</h1><span id="more"></span>
+
+<p>  The past several years have witnessed a social phenomenon that an increasing number of…. As is indicated in the article, ….</p>
+<p>when it refers to …, different people have different views on such a controversial issue It is commonly accepted that ….</p>
+<p>Others, however, take the negative attitude.From the personal perspective, I prefer A rather than B as my inclination.</p>
+<p>  First of all,   </p>
+<p>  Another reason why   </p>
+<p> Additionally, </p>
+<p> Despite these advantages, some skeptics argue that ….. </p>
+<p>  In conclusion, considering every aspect of  this phenomenon, we show bear in mind that &#x2F;progress in technology is always accompanied by voices of doubt.</p>
+<p>But it cannot be denied that these technologies can bring convenience to our lives. （之前的原因再说一遍） Therefore,</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hadoop hdfs上传文件</title>
+    <url>/myblog.github.io/2024/01/03/Hadoop-hdfs%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6/</url>
+    <content><![CDATA[<p>xshell连接到相应的集群</p>
+<p><img src="/myblog.github.io/pic/1702478212823.png" alt="1702478212823"></p>
+<p>还有创建的命令。</p>
+]]></content>
+      <categories>
+        <category>关于spark的一些问题</category>
+      </categories>
   </entry>
 </search>
